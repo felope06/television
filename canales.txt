@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Caracol
+https://ul.cdn946.net:8443/hls/oecab2d8qutfsu7.m3u8?s=1O-6NqZeCMXInWHfe63b3w&e=1606205541
+#EXTINF:-2,Rcn
+https://ul.cdn946.net:8443/hls/s7yyuuszwng3w.m3u8?s=xcw7YRekHrbNKusm14lCWQ&e=1606206437
+#EXTINF:-3,Canal Uno
+https://ul.cdn946.net:8443/hls/pkpkez85x5v614.m3u8?s=3z7c73qXhQO4KSn_sx-sJA&e=1606206725
